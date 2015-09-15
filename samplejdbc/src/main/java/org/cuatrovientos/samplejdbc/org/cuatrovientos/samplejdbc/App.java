@@ -8,8 +8,9 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 /**
- * Hello world!
- *
+ * Simple class to show JDBC basics
+ * It uses sqlite as a database
+ * @author Pello Altadill
  */
 public class App {
 	public static void main(String[] args) 
